@@ -5,6 +5,8 @@
 
 ## ▶ [Смотреть видео онлайн](https://loganzarov-alt.github.io/Demo/)
 
+[![Предпросмотр видео D325f-SDR](preview.jpg)](https://loganzarov-alt.github.io/Demo/)
+
 Просмотр в браузере с плеером — без скачивания файла вручную.
 
 Исходный код проекта: https://github.com/loganzarov-alt/D325f-SDR
