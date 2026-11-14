@@ -3,6 +3,8 @@
 Видео проекта «Сотовый модем смартфона как программно-определяемый радиоприёмник»
 (Балтийский научно-инженерный конкурс 2027).
 
-▶ [D325f-SDR-konkurs.mp4](https://github.com/loganzarov-alt/Demo/raw/refs/heads/main/D325f-SDR-konkurs.mp4) — 1:58, 720p, на русском.
+## ▶ [Смотреть видео онлайн](https://loganzarov-alt.github.io/Demo/)
+
+Просмотр в браузере с плеером — без скачивания файла вручную.
 
 Исходный код проекта: https://github.com/loganzarov-alt/D325f-SDR
